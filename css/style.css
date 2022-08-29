@@ -108,10 +108,10 @@ main > *{
   align-items: center;
 }
 .hrs p{
-  margin:-10px auto;
+/*   margin:-10px auto; */
 }
 .hrs h2{
-  margin:-20px auto;
+/*   margin:-20px auto; */
   font-size: 2rem;
 }
 
