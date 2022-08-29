@@ -76,13 +76,13 @@ main > *{
   background-position: center;
 }
 .left{
-  background-image: url("/assets/beef.jpg");
+  background-image: url("../assets/beef.jpg");
 }
 .middle{
-  background-image: url("/assets/chicken.jpg");
+  background-image: url("../assets/chicken.jpg");
 }
 .right{
-  background-image: url("/assets/tofu.jpg");
+  background-image: url("../assets/tofu.jpg");
 }
 .right:hover{
 /*   filter:blur(10px) */
