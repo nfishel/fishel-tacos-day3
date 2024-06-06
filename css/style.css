@@ -142,3 +142,10 @@ footer > *{
   flex-direction: column;
 }
 
+@media (max-width: 500px){
+  .container{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+  }
+}
+
