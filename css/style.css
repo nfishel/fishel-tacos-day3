@@ -166,6 +166,10 @@ footer > *{
     justify-content:center;
     flex-direction:column;
   }
+  nav a{
+    padding:5px;
+    font-size: .75rem;
+  }
   #taco{
     margin-left:auto;
   }
