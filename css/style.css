@@ -151,7 +151,7 @@ footer > *{
     min-height:30vh;
   }
   #info{
-    flex-direction:column;
+    flex-direction:column-reverse;
     gap:.5rem;
 }
 
