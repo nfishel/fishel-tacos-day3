@@ -150,5 +150,8 @@ footer > *{
   main{
     flex-direction:column;
   }
+  main > *{
+    min-height:30vh;
+  }
 }
 
